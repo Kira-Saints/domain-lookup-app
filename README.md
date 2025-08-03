@@ -110,7 +110,7 @@ Open your browser and go to: [http://localhost:3000](http://localhost:3000)
 
 ## 🖼️ Preview
 
-![App Preview](/frontend/domain-lookup-app-preview.png)
+![App Preview](./frontend/public/domain-lookup-app-preview.png)
 
 ---
 
