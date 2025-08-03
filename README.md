@@ -95,7 +95,7 @@ cd backend
 npm run dev
 ```
 
-- Start the frontend (port 1234 by default):
+- Start the frontend (port 3000 by default):
 
 ```bash
 cd frontend
@@ -104,13 +104,13 @@ npm start
 
 5. **Visit the app**
 
-Open your browser and go to: [http://localhost:1234](http://localhost:1234)
+Open your browser and go to: [http://localhost:3000](http://localhost:3000)
 
 ---
 
 ## 🖼️ Preview
 
-![App Preview](./preview.png)
+![App Preview](./domain-lookup-app-preview.png)
 
 ---
 
