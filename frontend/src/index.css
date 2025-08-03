@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes float1 { 0%, 100% { transform: translateY(0px) translateX(0px); } 50% { transform: translateY(-20px) translateX(10px); } }
+@keyframes float2 { 0%, 100% { transform: translateY(0px) translateX(0px); } 50% { transform: translateY(-15px) translateX(-8px); } }
+@keyframes float3 { 0%, 100% { transform: translateY(0px) translateX(0px); } 50% { transform: translateY(-25px) translateX(15px); } }
+@keyframes float4 { 0%, 100% { transform: translateY(0px) translateX(0px); } 50% { transform: translateY(-18px) translateX(-12px); } }
+@keyframes float5 { 0%, 100% { transform: translateY(0px) translateX(0px); } 50% { transform: translateY(-22px) translateX(8px); } }
+@keyframes float6 { 0%, 100% { transform: translateY(0px) translateX(0px); } 50% { transform: translateY(-16px) translateX(-10px); } }
+@keyframes float7 { 0%, 100% { transform: translateY(0px) translateX(0px); } 50% { transform: translateY(-20px) translateX(12px); } }
+@keyframes float8 { 0%, 100% { transform: translateY(0px) translateX(0px); } 50% { transform: translateY(-24px) translateX(-6px); } }
+
+.animate-float-1 { animation: float1 6s ease-in-out infinite; }
+.animate-float-2 { animation: float2 8s ease-in-out infinite; }
+.animate-float-3 { animation: float3 7s ease-in-out infinite; }
+.animate-float-4 { animation: float4 9s ease-in-out infinite; }
+.animate-float-5 { animation: float5 5s ease-in-out infinite; }
+.animate-float-6 { animation: float6 7.5s ease-in-out infinite; }
+.animate-float-7 { animation: float7 6.5s ease-in-out infinite; }
+.animate-float-8 { animation: float8 8.5s ease-in-out infinite; }
+
+.floating-element:nth-child(1) { top: 10%; left: 15%; }
+.floating-element:nth-child(2) { top: 20%; right: 20%; }
+.floating-element:nth-child(3) { top: 35%; left: 10%; }
+.floating-element:nth-child(4) { top: 50%; right: 15%; }
+.floating-element:nth-child(5) { top: 65%; left: 20%; }
+.floating-element:nth-child(6) { top: 75%; right: 25%; }
+.floating-element:nth-child(7) { top: 85%; left: 25%; }
+.floating-element:nth-child(8) { top: 30%; right: 10%; }
