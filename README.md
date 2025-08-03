@@ -80,7 +80,7 @@ npm install
 
 3. **Setup environment variables**
 
-Create a `.env` file in the `server/` directory:
+Create a `.env` file in the `backend/` directory:
 
 ```bash
 WHOIS_API_KEY=at_huzCphF4yAnCrxNCiwvObMN3OxBWS
@@ -110,7 +110,7 @@ Open your browser and go to: [http://localhost:3000](http://localhost:3000)
 
 ## 🖼️ Preview
 
-![App Preview](./domain-lookup-app-preview.png)
+![App Preview](/domain-lookup-app-preview.png)
 
 ---
 
