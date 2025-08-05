@@ -1,8 +1,8 @@
-6145
+6146
 99C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\resolve\test\resolver\multirepo\packages133986967466149899 1
 91C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@parcel\core\src\public\Asset.js133986974198824747 0
 65C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\.cache133986967803970165 1
-58C:\Users\MichaelIT\domain-lookup-app\frontend\package.json133986998972919436 0
+58C:\Users\MichaelIT\domain-lookup-app\frontend\package.json133988759571004406 0
 104C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\resolve\test\module_dir\ymodules\aaa\index.js133986967463779482 0
 111C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\resolve\test\resolver\symlinked\package\package.json133986967470579336 0
 91C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\chokidar\lib\fsevents-handler.js133986967439080677 0
@@ -30,7 +30,7 @@
 134C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\filesystem.js133986974197593925 0
 90C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\data\regions\KZ.js133986967483078100 0
 100C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\electron-to-chromium\chromium-versions.js133986967435083759 0
-50C:\Users\MichaelIT\domain-lookup-app\frontend\dist133987006112592938 1
+50C:\Users\MichaelIT\domain-lookup-app\frontend\dist133988760831127924 1
 122C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\react-dom\cjs\react-dom-server-legacy.browser.production.min.js133986967454025802 0
 111C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\sucrase\dist\esm\util\removeMaybeImportAttributes.js133986967470727536 0
 126C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\postcss-load-config\node_modules\yaml\dist\compose\resolve-props.js133986967470737542 0
@@ -38,11 +38,11 @@
 76C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\anymatch\index.js133986967434842282 0
 92C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\fast-glob\out\managers\tasks.d.ts133986967465941015 0
 107C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\data\features\permissions-policy.js133986967485323998 0
-63C:\Users\MichaelIT\domain-lookup-app\frontend\postcss.config.js133986979450781382 0
+63C:\Users\MichaelIT\domain-lookup-app\frontend\postcss.config.js133988760825433094 0
 95C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\jackspeak\dist\commonjs\index.js.map133986967452779909 0
 77C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\fill-range\LICENSE133986967432579212 0
 122C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\postcss-load-config\node_modules\yaml\dist\schema\core\int.d.ts133986967475579157 0
-63C:\Users\MichaelIT\domain-lookup-app\frontend\package-lock.json133986990052985302 0
+63C:\Users\MichaelIT\domain-lookup-app\frontend\package-lock.json133988759571379690 0
 148C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\.cache\babel-loader\b6e83b1cdefb5f1e41029dcdf6c458ba945b5ac920b47ecd589834ee7ee1ac11.json133986967765333465 0
 63C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\jiti133986967462526500 1
 109C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@parcel\core\test\fixtures\invalid-source-not-file133986974200435602 1
@@ -51,7 +51,7 @@
 87C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\any-promise\register\when.js133986967452498004 0
 81C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@lezer\lr\package.json133986974198147898 0
 84C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\string-width\package.json133986967437209262 0
-58C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules133986990052707273 1
+58C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules133988759570964181 1
 97C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\tailwindcss\scripts\release-channel.js133986967477378971 0
 86C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\node-addon-api\node_api.gyp133986974197469043 0
 84C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\msgpackr-extract\index.js133986974197749291 0
@@ -75,7 +75,7 @@
 102C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@parcel\watcher\src\linux\InotifyBackend.cc133986974198364581 0
 85C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\function-bind\CHANGELOG.md133986967448997974 0
 70C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@ampproject133986977875681930 1
-52C:\Users\MichaelIT\domain-lookup-app\frontend\public133986965076607721 1
+52C:\Users\MichaelIT\domain-lookup-app\frontend\public133987136914124165 1
 102C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\type-fest\source\union-to-intersection.d.ts133986967463236764 0
 98C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@swc\helpers\_\_call_super\package.json133986974200344475 0
 111C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\scheduler\cjs\scheduler-unstable_mock.development.js133986967439380001 0
@@ -86,11 +86,20 @@
 65C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\cssesc133986967443879719 1
 104C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\package-json-from-dist\dist\commonjs\index.js133986967433579306 0
 49C:\Users\MichaelIT\domain-lookup-app\frontend\src133986965076607721 1
-56C:\Users\MichaelIT\domain-lookup-app\frontend\src\App.js133987006111088258 0
+56C:\Users\MichaelIT\domain-lookup-app\frontend\src\App.js133987008190791633 0
 59C:\Users\MichaelIT\domain-lookup-app\frontend\src\index.css133986970652153482 0
 103C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\resolve\test\resolver\multirepo\package.json133986967470386780 0
-63C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@swc133986990052717267 1
+63C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@swc133988759570978945 1
 58C:\Users\MichaelIT\domain-lookup-app\frontend\src\index.js133986978738897417 0
+92C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\tailwindcss\src\corePluginList.js133986967465951012 0
+80C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\thenify-all\README.md133986967434322036 0
+117C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\data\features\justify-content-space-evenly.js133986967482781687 0
+82C:\Users\MichaelIT\domain-lookup-app\frontend\public\domain-lookup-app-preview.png133987136800000000 0
+74C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@parcel\fs\test133986974198419708 1
+79C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\thenify-all\index.js133986967439981738 0
+96C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\.cache\default-development\index.pack133986972435733082 0
+91C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\minipass\dist\esm\index.d.ts.map133986967449496677 0
+83C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\tailwindcss\variants.css133986967456240128 0
 81C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\react-dom\package.json133986967469379542 0
 112C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\sucrase\node_modules\minimatch\dist\esm\unescape.d.ts133986967465891011 0
 68C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@trysound133986977860023838 1
@@ -120,7 +129,7 @@
 64C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@xtuc133986977860108899 1
 102C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\data\features\selection-api.js133986967485878690 0
 111C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\sucrase\node_modules\glob\dist\commonjs\package.json133986967455579025 0
-77C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\.package-lock.json133986990053183816 0
+77C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\.package-lock.json133988759571550563 0
 119C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\sucrase\dist\esm\transformers\NumericSeparatorTransformer.js133986967469062264 0
 115C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\postcss-load-config\node_modules\yaml\dist\public-api.js133986967469752540 0
 68C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@sinclair133986977860023838 1
@@ -140,7 +149,7 @@
 65C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@pkgjs133986967419663853 1
 94C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\dist\unpacker\index.js133986967481843267 0
 99C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\data\features\hashchange.js133986967480992733 0
-61C:\Users\MichaelIT\domain-lookup-app\frontend\dist\index.html133986998982006588 0
+61C:\Users\MichaelIT\domain-lookup-app\frontend\dist\index.html133988760830517934 0
 80C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\braces\lib\compile.js133986967436341831 0
 100C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\tailwindcss\src\lib\expandApplyAtRules.js133986967469263162 0
 90C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\fast-glob\out\readers\sync.d.ts133986967465865935 0
@@ -171,7 +180,7 @@
 92C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\sucrase\dist\esm\HelperManager.js133986967465400150 0
 85C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@lezer\common\package.json133986974198127895 0
 84C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\tailwindcss\src\plugin.js133986967476878374 0
-64C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@lmdb133986990052727266 1
+64C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@lmdb133988759570988985 1
 108C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@parcel\package-manager\src\NodePackageManager.js133986974198763913 0
 104C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@parcel\reporter-dev-server\src\NodeRunner.js133986974197986377 0
 76C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@eslint-community133986977850130991 1
@@ -228,7 +237,7 @@
 83C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\postcss\lib\postcss.d.ts133986967464579673 0
 95C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@swc\helpers\esm\_super_prop_base.js133986974200063741 0
 89C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\sucrase\node_modules\commander133986967445680503 1
-76C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@msgpackr-extract133986990052727266 1
+76C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@msgpackr-extract133988759570988985 1
 82C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\wrap-ansi-cjs\readme.md133986967439779589 0
 91C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\.bin\download-msgpackr-prebuilds133986974202252436 0
 85C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\msgpackr\dist\index.js.map133986974199032440 0
@@ -240,7 +249,7 @@
 82C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\resolve\test\pathfilter133986967467002714 1
 82C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\utility-types\README.md133986974198429705 0
 108C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\sucrase\node_modules\glob\dist\commonjs\glob.d.ts133986967465845937 0
-66C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@parcel133986990052727266 1
+66C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@parcel133988759570988985 1
 67C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\anymatch133986967442027644 1
 72C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\source-map-js133986967455579025 1
 95C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\data\features\webnfc.js133986967487902055 0
@@ -272,11 +281,11 @@
 65C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@ungap133986977875902697 1
 70C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\resolve\lib133986967469547631 1
 97C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\tailwindcss\src\util\prefixSelector.js133986967477179156 0
+95C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@parcel\transformer-babel\src\jsx.js133986974198482250 0
+73C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@webassemblyjs133986977881956837 1
 108C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\string-width-cjs\node_modules\emoji-regex\text.js133986967444053450 0
 95C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\data\features\hidden.js133986967481081342 0
 67C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\path-key133986967442079596 1
-95C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@parcel\transformer-babel\src\jsx.js133986974198482250 0
-73C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@webassemblyjs133986977881956837 1
 86C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@parcel\utils\src\is-url.js133986974199202442 0
 89C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@parcel\watcher\src\Backend.cc133986974197398314 0
 87C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@parcel\workers\lib\types.js133986974199032440 0
@@ -481,7 +490,7 @@
 68C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\js-tokens133986967442179061 1
 129C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\postcss-load-config\node_modules\yaml\dist\schema\yaml-1.1\binary.d.ts133986967474794877 0
 95C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@parcel\core\node_modules\dotenv\lib133986974198374536 1
-81C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\lmdb\dependencies\lmdb133986974197623965 1
+81C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\lmdb\dependencies\lmdb133986974197653960 1
 82C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\jackspeak\dist\commonjs133986967458913245 1
 92C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\sucrase\dist\util\getClassInfo.js133986967463294276 0
 78C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\term-size\readme.md133986974198202968 0
@@ -1153,13 +1162,6 @@
 89C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\tailwindcss\src\lib\offsets.js133986967476178589 0
 81C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\thenify-all\History.md133986967442316009 0
 124C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\sucrase\node_modules\minimatch\dist\commonjs\brace-expressions.js133986967446879798 0
-74C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@parcel\fs\test133986974198419708 1
-79C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\thenify-all\index.js133986967439981738 0
-92C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\tailwindcss\src\corePluginList.js133986967465951012 0
-80C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\thenify-all\README.md133986967434322036 0
-96C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\.cache\default-development\index.pack133986972435733082 0
-91C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\minipass\dist\esm\index.d.ts.map133986967449496677 0
-83C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\tailwindcss\variants.css133986967456240128 0
 124C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\sucrase\node_modules\minimatch\dist\esm\assert-valid-pattern.d.ts133986967464512531 0
 78C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\thenify-all\LICENSE133986967437378932 0
 80C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\resolve\.editorconfig133986967433179570 0
@@ -1470,8 +1472,8 @@
 93C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\tailwindcss\src\cli\build\utils.js133986967478595319 0
 87C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\tailwindcss\lib\value-parser133986967479078160 1
 96C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\tailwindcss\src\cli\build\watching.js133986967478855400 0
-78C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\tailwindcss\lib\lib133986967478119901 1
 96C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\tailwindcss\scripts\generate-types.js133986967470200833 0
+78C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\tailwindcss\lib\lib133986967478119901 1
 109C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\sucrase\dist\types\util\getNonTypeIdentifiers.d.ts133986967474424370 0
 127C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\postcss-load-config\node_modules\yaml\dist\schema\yaml-1.1\binary.js133986967454691264 0
 101C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\tailwindcss\node_modules\lilconfig\LICENSE133986967433479134 0
@@ -1603,7 +1605,7 @@
 83C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\is-core-module\README.md133986967448997974 0
 78C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\nanoid\url-alphabet133986967456821429 1
 83C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\postcss\lib\comment.d.ts133986967462324516 0
-89C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\lmdb\dependencies\lmdb-data-v1133986974197166001 1
+89C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\lmdb\dependencies\lmdb-data-v1133986974197238600 1
 115C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\CHANGES133986974197363925 0
 91C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\resolve\test\module_dir\ymodules133986967463690419 1
 90C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\data\regions\VI.js133986967487578119 0
@@ -2125,10 +2127,10 @@
 113C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@swc\helpers\_\_class_private_method_init\package.json133986974200503128 0
 82C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\read-cache\package.json133986967432382962 0
 108C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\sucrase\dist\types\parser\plugins\typescript.d.ts133986967475843449 0
+115C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@swc\helpers\src\_class_apply_descriptor_destructure.mjs133986974201813062 0
 108C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\sucrase\dist\transformers\CJSImportTransformer.js133986967455933648 0
 96C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\sucrase\dist\esm\Options-gen-types.js133986967469678523 0
 90C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\data\regions\LR.js133986967483532916 0
-115C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@swc\helpers\src\_class_apply_descriptor_destructure.mjs133986974201813062 0
 115C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\postcss-load-config\node_modules\yaml\browser\dist\nodes133986967474319543 1
 90C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\data\regions\FM.js133986967479707418 0
 99C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\node-gyp-build-optional-packages\LICENSE133986974197217717 0
@@ -2402,8 +2404,6 @@
 120C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@parcel\package-manager\test\fixtures\has-a-not-yet-installed133986974198956365 1
 98C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@swc\helpers\esm\_async_to_generator.js133986974199665155 0
 84C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\semver\functions\parse.js133986967461914970 0
-111C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@swc\helpers\esm\_object_without_properties_loose.js133986974200013750 0
-70C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\mz\index.js133986967446826049 0
 84C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\semver\functions\patch.js133986967462096752 0
 78C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\safe-buffer\LICENSE133986967432382962 0
 87C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\semver\functions\rcompare.js133986967462915575 0
@@ -3372,6 +3372,8 @@
 88C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\nanoid\async\index.browser.js133986967450779318 0
 71C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\mz\crypto.js133986967443879719 0
 93C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\data\features\ruby.js133986967485746049 0
+111C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@swc\helpers\esm\_object_without_properties_loose.js133986974200013750 0
+70C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\mz\index.js133986967446826049 0
 69C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\mz\LICENSE133986967437378932 0
 74C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\mz\package.json133986967432382962 0
 99C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\lmdb\dependencies\lz4\lib\dll\liblz4.def133986974199675156 0
@@ -3635,7 +3637,7 @@
 96C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@parcel\utils\src\prettyDiagnostic.js133986974199292983 0
 90C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\data\regions\WF.js133986967487952063 0
 103C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@swc\helpers\esm\_interop_require_default.js133986974199942194 0
-91C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\lmdb\dependencies\lmdb\libraries133986974197653960 1
+91C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\lmdb\dependencies\lmdb\libraries133986974197694135 1
 92C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\data\features\u2f.js133986967487426894 0
 99C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb133986974200088790 1
 97C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@swc\helpers\src\_array_with_holes.mjs133986974201783029 0
@@ -4557,7 +4559,6 @@
 87C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@jridgewell\resolve-uri\dist133986967446879798 1
 109C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\data\features\js-regexp-lookbehind.js133986967482761660 0
 93C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\data\features\json.js133986967482761660 0
-117C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\data\features\justify-content-space-evenly.js133986967482781687 0
 112C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\data\features\kerning-pairs-ligatures.js133986967482821994 0
 107C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\data\features\keyboardevent-code.js133986967482877631 0
 119C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\caniuse-lite\data\features\keyboardevent-getmodifierstate.js133986967482877631 0
@@ -4989,7 +4990,7 @@
 92C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@swc\helpers\src\_ts_decorate.mjs133986974202106626 0
 101C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@swc\helpers\src\_ts_dispose_resources.mjs133986974202106626 0
 89C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@swc\helpers\src\_ts_param.mjs133986974202126530 0
-73C:\Users\MichaelIT\domain-lookup-app\frontend\dist\public.31b563d9.js.map133987006112592938 0
+73C:\Users\MichaelIT\domain-lookup-app\frontend\dist\public.31b563d9.js.map133988760831108438 0
 88C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@swc\helpers\src\_type_of.mjs133986974202136531 0
 97C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@isaacs\cliui\node_modules\ansi-styles133986967442179061 1
 87C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\@swc\helpers\src\_update.mjs133986974202146530 0
@@ -6141,6 +6142,6 @@
 79C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\.bin\tailwindcss.cmd133986967504779816 0
 86C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\.bin\update-browserslist-db133986967504779816 0
 90C:\Users\MichaelIT\domain-lookup-app\frontend\node_modules\.bin\update-browserslist-db.ps1133986967504779816 0
-69C:\Users\MichaelIT\domain-lookup-app\frontend\dist\public.31b563d9.js133987006112573107 0
-70C:\Users\MichaelIT\domain-lookup-app\frontend\dist\public.d91c94e1.css133986998982493267 0
-74C:\Users\MichaelIT\domain-lookup-app\frontend\dist\public.d91c94e1.css.map133986998982503243 0
+69C:\Users\MichaelIT\domain-lookup-app\frontend\dist\public.31b563d9.js133988760830947638 0
+70C:\Users\MichaelIT\domain-lookup-app\frontend\dist\public.d91c94e1.css133988760830947638 0
+74C:\Users\MichaelIT\domain-lookup-app\frontend\dist\public.d91c94e1.css.map133988760831098893 0
